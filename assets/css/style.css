@@ -1,0 +1,32 @@
+.main-header {
+    font-family: 'Montserrat', sans-serif;
+    color: #ff000088;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.sub-header {
+    color: greenyellow;
+    font-size: 36px;
+    text-transform: capitalize;
+}
+
+.sub-header+p {
+    font-size: 22px;
+    font-weight: normal;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.3em;
+    text-align: justify;
+}
+
+.page-link {
+    text-decoration: underline 3px wavy blue;
+    /* text-decoration-line: line-through;
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial; */
+}
+.aline-center {
+    text-align: center;
+}
